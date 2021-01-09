@@ -14,6 +14,13 @@ In my free time, I like to:
 - play guitar
 
  :+1: :+1: 
+ 
+ Planning of 2021:
+- [ ]  Go visit a City
+- [ ]  Go to do a internship
+- [ ]  participate in a research
+
+
 ## Programming experience
 I learned some basic knowledge of Java and C++ language in UCSD. I am interested in React.js and learning it recently.
 
