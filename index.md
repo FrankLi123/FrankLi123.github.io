@@ -12,15 +12,13 @@ In my free time, I like to:
 - play basketball
 - watch movies and tv shows
 - play guitar
-
+ :+1
 ## Programming experience
-
+I learned some basic knowledge of Java and C++ language in UCSD. I am interested in React.js and learning it recently.
 
 ## Link to my gitHub Page. 
 
-
-
-[Link to my first Lab in CSE110](CSE110Lab1/README.md)
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ![Image of coding](https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg)
 
