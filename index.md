@@ -13,7 +13,6 @@ In my free time, I like to:
 - watch movies and tv shows
 - play guitar
 
- @FrankLi123 :+1
  
 ## Programming experience
 I learned some basic knowledge of Java and C++ language in UCSD. I am interested in React.js and learning it recently.
