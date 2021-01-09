@@ -1,13 +1,13 @@
-## Welcome!!!!!!!
+## Welcome!
 
 > Before software can be reusable it first has to be usable. 
 > -Ralph Johnson
 
-# ** Personal Introduction **
+#  Personal Introduction 
 
-Hello! This is Zongchen Li. I am a UCSD student and this is my fourth year. I enjoy coding and work with others to make a good project!
+Hello! This is **Zongchen Li**. I am a UCSD student and this is my fourth year. I enjoy coding and work with others to make a good project!
 
-###  **Link to my gitHub Page. **
+### Link to my gitHub Page. 
 
 Here is the link of my gitHub page:
 http://github.com 
