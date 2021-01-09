@@ -21,5 +21,7 @@ I learned some basic knowledge of Java and C++ language in UCSD. I am interested
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+[Seeing README.md file for this project](/README.md)
+
 ![Image of coding](https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg)
 
