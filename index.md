@@ -13,7 +13,8 @@ In my free time, I like to:
 - watch movies and tv shows
 - play guitar
 
- :+1: :+1: 
+ :+1: 
+ :+1: 
  
  Planning of 2021:
 - [ ]  Go visit a City
