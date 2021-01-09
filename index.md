@@ -24,10 +24,10 @@ In my free time, I like to:
 ## Programming experience
 I learned some basic knowledge of Java and C++ language in UCSD. I am interested in React.js and learning it recently.
 
-## Link to my gitHub Page. 
-
+## Link to other Page
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+ **relative links: **
 [Seeing README.md file for this project](/README.md)
 
 ![Image of coding](https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg)
