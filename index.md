@@ -7,10 +7,10 @@
 
 Hello! This is **Zongchen Li**. I am a UCSD student and this is my fourth year. I enjoy coding and work with others to make a good project
 In my free time, I like to:
-*read all kinds of books
-*play basketball
-*watch movies and tv shows
-*play guitar
+- read all kinds of books
+- play basketball
+- watch movies and tv shows
+- play guitar
 
 ### Link to my gitHub Page. 
 
