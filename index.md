@@ -20,7 +20,7 @@ In my free time, I like to:
 
 
 
-[Link to my first Lab in CSE110](FrankLi123/CSE110Lab1/README.md)
+[Link to my first Lab in CSE110](CSE110Lab1/README.md)
 
 ![Image of coding](https://www.bgosoftware.com/blog/wp-content/uploads/2016/03/insidepost_coding.jpg)
 
