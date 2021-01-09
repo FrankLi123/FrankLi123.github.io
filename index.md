@@ -1,6 +1,11 @@
 ## Welcome!!!!!!!
 
-Hello, this is Frank Li's User page！
+
+# Personal Introduction
+
+Hello! This is Zongchen Li. I am a UCSD student and this is my fourth year. I enjoy coding and work with others to make a good project!
+
+### Link to my gitHub Page.
 
 Here is the link of my gitHub page:
 http://github.com 
